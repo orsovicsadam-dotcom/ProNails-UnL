@@ -4,7 +4,7 @@ const Hero = () => {
       id="home"
       className="relative min-h-screen flex items-center justify-center bg-center bg-cover"
       style={{
-        backgroundImage: 'url(/Shved-Hero-image.jpg)',
+        backgroundImage: 'url(/ProNails-Hero-image.jpg)',
       }}
     >
       {/* Overlay */}

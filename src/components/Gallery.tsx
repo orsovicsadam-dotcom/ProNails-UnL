@@ -2,12 +2,12 @@ import React from 'react';
 
 const Gallery = () => {
   const galleryImages = [
-    '/nehty 1.jpg',
-    '/nehty 2.jpg',
-    '/nehty 3.jpg',
-    '/nehty 4.jpg',
-    '/nehty 5.jpg',
-    '/nehty 6.jpg',
+    '/Nehty 1.png',
+    '/Nehty 2.png',
+    '/Nehty 3.png',
+    '/Nehty 4.png',
+    '/Nehty 5.png',
+    '/Nehty 6.png',
   ];
 
   return (
