@@ -10,7 +10,7 @@ const About = () => {
           </h2>
           <div className="bg-white rounded-lg shadow-sm p-8">
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              Vítejte v Shved Nails Praha! Jmenuji se Natalia Shved a už více než 5 let se věnuji
+              Vítejte v ProNails! Už více než 5 let se věnuji
               nehtové modeláži s láskou a precizností. Každá klientka je pro mne jedinečná
               a snažím se vytvořit nehty, které dokonale ladí s její osobností.
             </p>

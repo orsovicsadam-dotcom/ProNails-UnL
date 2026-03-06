@@ -13,7 +13,7 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 text-center px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-          Shved Nails Praha
+          ProNails
         </h1>
         <p className="text-xl sm:text-2xl text-white/90 mb-8 max-w-2xl mx-auto">
           Krása, preciznost a individuální přístup

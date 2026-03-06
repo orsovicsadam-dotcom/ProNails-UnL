@@ -22,20 +22,20 @@ const Contact = () => {
               <div className="space-y-4">
                 <div className="flex items-center">
                   <Phone className="text-rose-600 mr-3" size={20} />
-                  <span className="text-gray-700">+420 776 526 609</span>
+                  <span className="text-gray-700">+420 777 450 253</span>
                 </div>
 
                 <div className="flex items-center">
                   <Mail className="text-rose-600 mr-3" size={20} />
-                  <span className="text-gray-700">natalyashwed07@gmail.com</span>
+                  <span className="text-gray-700">sharky.kj@gmail.com</span>
                 </div>
 
                 <div className="flex items-start">
                   <MapPin className="text-rose-600 mr-3 mt-1" size={20} />
                   <div className="text-gray-700">
-                    <p>Shved Nails Praha</p>
-                    <p>Americká 451/10, Vinohrady</p>
-                    <p>120 00 Praha 2</p>
+                    <p>ProNails</p>
+                    <p>Revolucni 551/6,</p>
+                    <p>Ústí nad Labem 40001</p>
                   </div>
                 </div>
               </div>
@@ -83,8 +83,8 @@ const Contact = () => {
             <div className="flex-grow bg-gray-100 rounded-md border-2 border-dashed border-gray-300 flex items-center justify-center relative overflow-hidden group">
               <div className="text-center z-10 px-4">
                 <MapPin className="mx-auto text-gray-400 mb-2 group-hover:text-rose-500 transition-colors" size={48} />
-                <p className="text-gray-500 font-medium">Mapa Shved Nails Praha</p>
-                <p className="text-gray-400 text-sm mt-1">Americká 451/10, Praha 2</p>
+                <p className="text-gray-500 font-medium">Mapa ProNails</p>
+                <p className="text-gray-400 text-sm mt-1">Revolucni 551/6, Ústí nad Labem</p>
               </div>
               {/* Decorative map-like elements */}
               <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px]"></div>
